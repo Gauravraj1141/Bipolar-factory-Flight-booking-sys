@@ -1,0 +1,49 @@
+[
+    {
+      "model": "flightbooking.Location",
+      "pk":1,
+      "fields": {
+       "location_name": "Delhi"
+      }
+    },
+    {
+      "model": "flightbooking.Location",
+      "pk":2,
+      "fields": {
+       "location_name": "Goa"
+      }
+    },
+    {
+      "model": "flightbooking.Location",
+      "pk":3,
+      "fields": {
+       "location_name": "Banglore"
+      }
+    },
+    {
+      "model": "flightbooking.Location",
+      "pk":4,
+      "fields": {
+       "location_name": "Pune"
+      }
+    },
+
+
+
+
+    {
+      "model": "flightbooking.FlightStatus",
+      "pk":1,
+      "fields": {
+       "status_name": "Available"
+      }
+    },
+    {
+      "model": "flightbooking.FlightStatus",
+      "pk":2,
+      "fields": {
+       "status_name": "Not-Available"
+      }
+    }
+
+]

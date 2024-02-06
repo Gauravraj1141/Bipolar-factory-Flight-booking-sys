@@ -1,0 +1,17 @@
+[
+    {
+      "model": "authapp.UserType",
+      "pk":1,
+      "fields": {
+       "type_name": "Simple"
+      }
+    },
+    {
+      "model": "authapp.UserType",
+      "pk":2,
+      "fields": {
+       "type_name": "Admin"
+      }
+    }
+   
+]
